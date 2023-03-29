@@ -1,0 +1,150 @@
+/*body{
+    background-color: rgb(240, 243, 234);
+}
+aside{
+    position: relative;
+    padding-left: 1000px;
+    width:50%;
+}
+table,td,th{
+    border: 5px black solid;
+    border-collapse: collapse;
+    width:60%;
+    align-content: center;
+    column-gap: 3px;
+    color: brown;
+   
+ 
+}
+img{
+ position: relative;
+ padding-left: 50px;
+}
+td:hover{
+    background-color: aquamarine;
+}
+p{
+    width:70%;
+}
+aside{
+    position: absolute; 
+    padding-left: 300px;
+    padding-top: 80px;
+    
+}
+form{
+    width:40%
+    
+    
+}
+h1{
+    text-align: center;
+    background-color: gray;
+    color:white;
+}
+*/
+
+header{
+    background-color: orange;
+    color:white;
+    width: 70%;
+    height:25px;
+    border-radius: 20px;
+    margin-top: 0%;
+    font-size: x-large;
+
+}
+body{
+    background-color: rgb(247, 234, 220);
+}
+a{
+  text-decoration: none;
+  position:relative;
+  padding-top: 25px;
+  padding-left: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: orange;
+
+ 
+
+}
+.bor{
+    background-color:rgb(36, 36, 228);
+    border-color: orange;
+    height:65px;
+    border-radius: 10px;
+    color: white;
+}
+h3{
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    color:orangered;
+    text-align: center;
+    width: 60%;
+    padding-left: 250px;
+}
+h5{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color:orangered;
+    position: relative;
+    padding-top: 0.5px;
+    padding-left: 30px;
+}
+a:hover{
+    color:skyblue;
+}
+h4{
+    position: relative;
+    padding-bottom: 200px;
+}
+marquee{
+
+    scroll-behavior: smooth;
+    scroll-snap-type: proximity;
+}
+.hed{
+    text-align: center;
+    font-size: larger;
+    color:orangered;
+    position: relative;
+    height: 30px;
+    padding-right: 100px;
+    padding-bottom: 150px;
+    margin:0 0 0 auto;
+}
+.logo{
+    position:absolute;
+    padding-left: 70px;
+    padding-top: 30px;
+
+}
+.nba{
+    position:absolute;
+    padding-left: 1250px;
+    padding-top: 30px;
+}
+.front{
+    height:180px;
+    background-color: rgb(249, 245, 245);
+    border: 1px black solid;
+    border-radius: 10px;
+}
+.form{
+    position: absolute; 
+    padding-left: 1000px;
+    padding-top: 80px;
+    padding-bottom: 1400px;
+}
+fieldset{
+    font-size: larger;
+    border-color: black;
+}
+.img{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+img{
+    border-radius: 10px;
+}
